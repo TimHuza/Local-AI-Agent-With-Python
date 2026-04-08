@@ -1,0 +1,12 @@
+[project]
+name = "local-ai-agent-with-python-ollama-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.15",
+    "langchain-chroma>=1.1.0",
+    "langchain-ollama>=1.1.0",
+    "pandas>=3.0.2",
+]
